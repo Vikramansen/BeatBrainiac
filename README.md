@@ -1,6 +1,6 @@
 # BeatBrainiac
 
-Implemented a [Research paper](https://ieeexplore.ieee.org/document/9449177) on Music Genre Classification emplying LSTM. 
+Implemented a [Research paper](https://ieeexplore.ieee.org/document/9449177) on Music Genre Classification by emplying LSTM. 
 
 BeatBrainiac is an advanced Music Genre Classification tool utilizing LSTM (Long Short-Term Memory) networks, alongside Time and Frequency Domain Features. This project aims to accurately classify music into various genres, providing a unique blend of time-series analysis and machine learning techniques.
 
@@ -51,4 +51,4 @@ Certainly! Here's a more concise version of the "Installation and Usage" section
 - For issues, ensure pip is up-to-date and retry dependencies installation.
 
 ### Support
-- For assistance or bug reporting, contact project maintainers or use the issue tracker on GitHub.
+- For assistance or bug reporting, contact me or use the issue tracker on GitHub.
