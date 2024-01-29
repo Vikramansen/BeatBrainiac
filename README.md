@@ -4,8 +4,6 @@ Implemented a [Research paper](https://ieeexplore.ieee.org/document/9449177) on 
 
 BeatBrainiac is an advanced Music Genre Classification tool utilizing LSTM (Long Short-Term Memory) networks, alongside Time and Frequency Domain Features. This project aims to accurately classify music into various genres, providing a unique blend of time-series analysis and machine learning techniques.
 
-Certainly! Here's a more concise version of the "Installation and Usage" section for your BeatBrainiac documentation:
-
 ---
 
 ## Installation and Usage
